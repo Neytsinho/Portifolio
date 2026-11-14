@@ -8,7 +8,7 @@ Este projeto consiste no meu portfólio profissional desenvolvido em HTML5, CSS3
 
 ## Link do Site Publicado
 Acesse o portfólio online pelo GitHub Pages:  
-👉 [https://neytsinho.github.io/portfolio/](https://neytsinho.github.io/portfolio/)
+👉 [https://neytsinho.github.io/portfolio/](https://neytsinho.github.io/portifolio/)
 
 ## Tecnologias Utilizadas
 - **HTML5:** Estruturação semântica (`<header>`, `<nav>`, `<main>`, `<section>`, `<figure>`, `<footer>`).
