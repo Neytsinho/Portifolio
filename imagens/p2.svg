@@ -1,0 +1,34 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 450" width="800" height="450">
+  <defs>
+    <linearGradient id="gp2" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#1e1b4b" />
+      <stop offset="100%" stop-color="#7c3aed" />
+    </linearGradient>
+  </defs>
+  <rect width="800" height="450" fill="url(#gp2)" />
+
+  <!-- Navegador -->
+  <rect x="120" y="65" width="560" height="320" rx="16" fill="#0f172a" stroke="#a78bfa" stroke-width="2" />
+  <rect x="120" y="65" width="560" height="36" rx="16" fill="#1e293b" />
+  <circle cx="146" cy="83" r="5" fill="#ef4444" />
+  <circle cx="164" cy="83" r="5" fill="#f59e0b" />
+  <circle cx="182" cy="83" r="5" fill="#22c55e" />
+
+  <text x="400" y="138" text-anchor="middle" fill="#f8fafc" font-family="sans-serif" font-weight="bold" font-size="20">Portal de Entretenimento Digital</text>
+
+  <!-- 3 Colunas Flexbox -->
+  <rect x="150" y="162" width="150" height="190" rx="10" fill="#1e293b" stroke="#f43f5e" stroke-width="2" />
+  <text x="225" y="195" text-anchor="middle" fill="#fda4af" font-family="sans-serif" font-weight="bold" font-size="14">Filmes e Séries</text>
+  <rect x="170" y="215" width="110" height="50" rx="6" fill="#f43f5e" fill-opacity="0.3" />
+  <rect x="170" y="280" width="110" height="50" rx="6" fill="#f43f5e" fill-opacity="0.3" />
+
+  <rect x="325" y="162" width="150" height="190" rx="10" fill="#1e293b" stroke="#10b981" stroke-width="2" />
+  <text x="400" y="195" text-anchor="middle" fill="#6ee7b7" font-family="sans-serif" font-weight="bold" font-size="14">Música e Podcasts</text>
+  <rect x="345" y="215" width="110" height="50" rx="6" fill="#10b981" fill-opacity="0.3" />
+  <rect x="345" y="280" width="110" height="50" rx="6" fill="#10b981" fill-opacity="0.3" />
+
+  <rect x="500" y="162" width="150" height="190" rx="10" fill="#1e293b" stroke="#38bdf8" stroke-width="2" />
+  <text x="575" y="195" text-anchor="middle" fill="#7dd3fc" font-family="sans-serif" font-weight="bold" font-size="14">Games e Tech</text>
+  <rect x="520" y="215" width="110" height="50" rx="6" fill="#38bdf8" fill-opacity="0.3" />
+  <rect x="520" y="280" width="110" height="50" rx="6" fill="#38bdf8" fill-opacity="0.3" />
+</svg>

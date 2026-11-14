@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 450" width="800" height="450">
+  <defs>
+    <linearGradient id="gp3" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#052e16" />
+      <stop offset="100%" stop-color="#0f766e" />
+    </linearGradient>
+  </defs>
+  <rect width="800" height="450" fill="url(#gp3)" />
+
+  <!-- Terminal CLI -->
+  <rect x="130" y="70" width="540" height="310" rx="16" fill="#090d16" stroke="#34d399" stroke-width="2" />
+  <text x="165" y="115" fill="#fbbf24" font-family="monospace" font-weight="bold" font-size="18">$ python monitor_reservatorio.py</text>
+  <line x1="165" y1="132" x2="635" y2="132" stroke="#1e293b" stroke-width="2" />
+
+  <text x="165" y="170" fill="#e2e8f0" font-family="monospace" font-size="16">[INFO] Leitura do sensor: 82%</text>
+  <text x="165" y="205" fill="#4ade80" font-family="monospace" font-weight="bold" font-size="16">[OK]   Nível normal de operação</text>
+  <text x="165" y="240" fill="#38bdf8" font-family="monospace" font-size="16">[CALC] Consumo médio: 145 L/dia</text>
+  <text x="165" y="275" fill="#facc15" font-family="monospace" font-size="16">[WARN] Faixa econômica ativa</text>
+
+  <!-- Barra visual no terminal -->
+  <rect x="165" y="305" width="470" height="24" rx="6" fill="#1e293b" />
+  <rect x="165" y="305" width="385" height="24" rx="6" fill="#10b981" />
+  <text x="400" y="322" text-anchor="middle" fill="#052e16" font-family="monospace" font-weight="bold" font-size="14">82% CAPACIDADE</text>
+</svg>
